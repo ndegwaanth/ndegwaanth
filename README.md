@@ -1,12 +1,8 @@
 # 👋 Hello, World! I'm Anthony Ndegwa
 
-Welcome to my GitHub repository! 🚀 Aspiring statistician and software enthusiast with a Bachelor of Science in Statistics and Information Technology. 📊💻 I hold a certificate in Software Engineering and have a deep passion for various aspects of technology.
-
 ## 🌟 About Me
-
-I am Anthony Ndegwa, a recent graduate with a Bachelor of Science degree in Statistics and Information Technology. My academic journey has equipped me with a strong foundation in statistical methodologies and a keen understanding of information technology.
-
-In addition, I've earned a certificate in Software Engineering, further expanding my skill set and allowing me to delve into the world of software development.
+My academic journey has equipped me with a strong foundation in statistical methodologies and a keen understanding of information technology.
+Am further expanding my skill set that will allowing me to delve into the world of software development.
 
 ## 💡 Interests
 
