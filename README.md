@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm Anthony Ndegwa
+# Hello World 👋 I'm Anthony Ndegwa
 
 ## 🌟 About Me
 My academic journey has equipped me with a strong foundation in statistical methodologies and a keen understanding of information technology.
