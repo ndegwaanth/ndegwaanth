@@ -1,5 +1,4 @@
-# Hello Tech's 👋 I'm Anthony Ndegwa
-
+# Hello Tech's 👋
 ## 🌟 About Me
 My academic journey has equipped me with a strong foundation in statistical methodologies and a keen understanding of information technology.
 Am further expanding my skill set that will allowing me to delve into the world of software development.
