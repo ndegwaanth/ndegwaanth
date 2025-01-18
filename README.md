@@ -25,12 +25,21 @@ I'm always open to discussions and collaborations. Reach out to me:
 - 🌐 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/anthony-ndegwa-535243222/)
 - 🐦 **Twitter:** [@Anthony51073183](https://twitter.com/Anthony51073183)
 
+## 🛠 Tech Stack  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat-square)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=MySQL&logoColor=white&style=flat-square)  
+
 ---
 
-### 📊 Profile Stats
-![Visitor Count](https://komarev.com/ghpvc/?username=ndegwaanth&color=blue&style=flat-square)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndegwaanth&show_icons=true&theme=default)
+## 📈 GitHub Stats  
+![Anthony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndegwaanth&show_icons=true&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=ndegwaanth&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ndegwaanth&layout=compact&theme=radical)  
 
 ---
 
