@@ -25,7 +25,13 @@ I'm always open to discussions and collaborations. Reach out to me:
 - 🌐 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/anthony-ndegwa-535243222/)
 - 🐦 **Twitter:** [@Anthony51073183](https://twitter.com/Anthony51073183)
 
+---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=ndegwaanth&color=blue)
+### 📊 Profile Stats
+![Visitor Count](https://komarev.com/ghpvc/?username=ndegwaanth&color=blue&style=flat-square)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndegwaanth&show_icons=true&theme=default)
+
+---
 
 Thanks for stopping by! Feel free to explore my projects, and let's learn and grow together. Happy coding! 🚀✨
