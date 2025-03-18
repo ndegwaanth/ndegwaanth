@@ -36,11 +36,4 @@ I'm always open to discussions and collaborations. Reach out to me:
 
 ---
 
-## 📈 GitHub Stats  
-![Anthony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndegwaanth&show_icons=true&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=ndegwaanth&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ndegwaanth&layout=compact&theme=radical)  
-
----
-
 Thanks for stopping by! Feel free to explore my projects, and let's learn and grow together. Happy coding! 🚀✨
