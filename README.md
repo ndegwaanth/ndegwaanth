@@ -1,4 +1,4 @@
-## 💡 Interests
+Hello...
 
 I thrive in the realms of technology, and my interests include:
 
