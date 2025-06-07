@@ -1,8 +1,3 @@
-# Hello Techies 👋
-## 🌟 About Me
-My academic journey has equipped me with a strong foundation in statistical methodologies and a keen understanding of information technology.
-Am further expanding my skill set that will allowing me to delve into the world of software development.
-
 ## 💡 Interests
 
 I thrive in the realms of technology, and my interests include:
